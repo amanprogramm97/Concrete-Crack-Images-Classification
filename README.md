@@ -6,7 +6,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 # Concrete Crack Images Classification
- to identify whether the picture is positif crack or negative crack
+ To identify whether the picture is positif crack or negative crack
 
 ## Data loading
 - download the dataset at [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2) using below code
@@ -35,16 +35,19 @@
 
 ![img](/model.png)
 
+![img](/model_training.png)
+
 ## Callbacks
  - set tensorboard and early stopping to prevent overfitting
- - set the epoch and batch size 
+ - set the epoch to 5 and batch size at 16
  - train the model
  
  ## Model analysis
- ![img](/'model analisis.png')
+ ![img](/model_analysis.png)
+ ![img](/accuracy.png)
  
  ## Model prediction
- ![img](/predict images.png)
+ ![img](/predict_images.png)
  
  ## Model deployment
  - save the model in h5 format
