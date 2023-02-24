@@ -9,7 +9,8 @@
  To identify whether the picture is positif crack or negative crack
 
 ## Data loading
-- download the dataset at [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2) using below code
+- code using Google Colab
+- download the dataset with the following code
 
 ```
 !wget https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/5y9wdsg2zt-2.zip
@@ -51,4 +52,7 @@
  
  ## Model deployment
  - save the model in h5 format
+
+## Acknowledgement
+- [Özgenel, Çağlar Fırat (2019), “Concrete Crack Images for Classification”, Mendeley Data, V2, doi: 10.17632/5y9wdsg2zt.2](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 
