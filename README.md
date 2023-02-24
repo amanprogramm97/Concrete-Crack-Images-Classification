@@ -41,7 +41,7 @@
  - train the model
  
  ## Model analysis
- ![img](/model analisis.png)
+ ![img](/'model analisis.png')
  
  ## Model prediction
  ![img](/predict images.png)
