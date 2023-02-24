@@ -20,14 +20,14 @@
 ```
 
 ## Feature selection
-- get the negative and positive path dataset as feature
+- get the negative and positive path image as feature
 - set positive and negative as target 
 
 `ref = {0:'positive', 1:'negative'}`
 
 ## Data preprocessing
 ### read and resize images
-- read the image as grey color and resize to a much smaller resolution
+- read the image as grey color and resize to a much smaller resolution (50,50)
 - set the x and y dimension
 - train test split
 
