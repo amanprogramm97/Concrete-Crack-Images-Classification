@@ -35,13 +35,16 @@
 
 ![img](/model.png)
 
+![img](/model_training.png)
+
 ## Callbacks
  - set tensorboard and early stopping to prevent overfitting
- - set the epoch and batch size 
+ - set the epoch to 5 and batch size at 16
  - train the model
  
  ## Model analysis
  ![img](/model_analysis.png)
+ ![img](/accuracy.png)
  
  ## Model prediction
  ![img](/predict_images.png)
