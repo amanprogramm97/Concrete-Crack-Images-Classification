@@ -6,7 +6,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 # Concrete Crack Images Classification
- to identify whether the picture is positif crack or negative crack
+ To identify whether the picture is positif crack or negative crack
 
 ## Data loading
 - download the dataset at [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2) using below code
