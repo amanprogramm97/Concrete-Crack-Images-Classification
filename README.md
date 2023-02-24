@@ -41,10 +41,10 @@
  - train the model
  
  ## Model analysis
- ![img](/'model analisis.png')
+ ![img](/model_analysis.png)
  
  ## Model prediction
- ![img](/predict images.png)
+ ![img](/predict_images.png)
  
  ## Model deployment
  - save the model in h5 format
