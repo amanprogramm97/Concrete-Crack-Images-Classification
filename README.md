@@ -51,6 +51,7 @@
  - L is the label image
  - P is the predicted images
  - it shows all the prediction images is correct
+ 
  ![img](/predicted_image.png)
  
  ## Model deployment
